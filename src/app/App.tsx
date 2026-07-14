@@ -229,10 +229,10 @@ export default function App() {
           <div className="flex items-center justify-between h-16">
             <a href="#" className="flex items-center gap-2.5">
               <div className="w-9 h-9 rounded-lg bg-gradient-to-br from-[#2563EB] to-[#06B6D4] flex items-center justify-center font-bold text-white text-sm tracking-tight flex-shrink-0">
-                RN
+                RS
               </div>
               <span className="text-white font-semibold text-lg tracking-tight hidden sm:block">
-                Ramesh <span className="text-[#06B6D4]">Nagal</span>
+                Ramesh <span className="text-[#06B6D4]">Suthar</span>
               </span>
             </a>
 
